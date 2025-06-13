@@ -8,3 +8,4 @@
 - Database : Mysql
 - AI model : Two tower
 
+![image](https://github.com/user-attachments/assets/5a1d3960-72b6-48be-b0f1-dc82d9e3915a)
